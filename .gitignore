@@ -1,0 +1,17 @@
+# Virtual Environment
+SocialStoriesAI/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# ChromaDB database files
+chroma_db/
+
+# IDE files
+.idea/

@@ -1,0 +1,24 @@
+# File: requirements.txt
+
+# For data handling
+pandas
+
+# Core ML/NLP libraries
+torch
+transformers[torch]
+datasets
+accelerate
+huggingface_hub[hf_xet]
+
+# For RAG and vector database
+langchain
+chromadb
+sentence-transformers
+langchain-community
+pypdf
+cryptography
+langchain-huggingface
+langchain-chroma
+
+# For the web application
+streamlit
