@@ -51,7 +51,7 @@ Windows operating system (though adaptable to others)
 Step 1: Clone the Repository & Set Up Environment
 
 # Clone this repository to your local machine (replace with your actual GitHub URL)
-git clone [https://github.com/your-username/Neuro-Adaptive-Story-Generator.git](https://github.com/your-username/Neuro-Adaptive-Story-Generator.git)
+git clone [https://github.com/MAhad01/Neuro-Adaptive-Story-Generator.git](https://github.com/MAhad01/Neuro-Adaptive-Story-Generator.git)
 cd Neuro-Adaptive-Story-Generator
 
 # Create a Python virtual environment
